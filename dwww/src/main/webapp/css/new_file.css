@@ -1,0 +1,19 @@
+div{
+	margin: auto;
+	width:1000px;
+}
+ul{
+	width: 1000px;
+	float: left;
+	border: 1px solid red;
+}
+li{
+	list-style-type:none;
+	float:left;
+	margin-left: 70px;
+	width: 60px;
+}
+.newst li{
+	margin-left: 20px;
+	padding-left:20px ;
+}
